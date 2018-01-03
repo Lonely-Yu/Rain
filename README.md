@@ -74,7 +74,6 @@ github 还提供了一个很赞的功能叫做 fork ，你只需要点击这个�
 > 差不多叫呢，我就介绍到这，GitHub的其他功能你们慢慢就会发掘出来的
 
 #### 扩展知识
-
 |HTML5+CSS3|HTML5+CSS3|HTML5+CSS3|
 |:---:|:---:|:---:|
 |Chrome|IE|Firefox|Safari|
