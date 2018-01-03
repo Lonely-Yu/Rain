@@ -29,8 +29,7 @@
 
 <b>简单来说，Git 是一个管理你的「代码的历史记录」的工具。</b>
 
-<img src="https://pic2.zhimg.com/50/c5325f74486d910a4068e54a152d32ac_hd.jpg" style="display:block;margin:0 auto;" />
-
+<center>![搞笑](https://pic2.zhimg.com/50/c5325f74486d910a4068e54a152d32ac_hd.jpg)</center>
 
 我不是程序员为什么要学这个啊啊啊！又不要管理代码们！
 
